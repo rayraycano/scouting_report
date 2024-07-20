@@ -1,0 +1,6 @@
+server/db/*
+server/data/*
+.DS_Store
+.vscode/settings.json
+.vscode/*
+.idea/*
