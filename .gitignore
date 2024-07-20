@@ -4,4 +4,4 @@ server/data/*
 .vscode/settings.json
 .vscode/*
 .idea/*
-**/__pycache
+**/__pycache__/
